@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-14T03:24:40.807Z",
-  "lastCheckedAt": "2026-10-29T04:14:27.621Z",
+  "lastUpdated": "2026-10-29T12:14:31.305Z",
+  "lastCheckedAt": "2026-10-29T12:14:31.305Z",
   "visits": [
     {
       "id": "01b8e80a-4634-4cce-b1a9-29bfc632afc9",
@@ -13,9 +13,36 @@
     },
     {
       "id": "97964b23-2f87-422f-8960-8a3196f98152",
-      "name": "Movies",
+      "name": "Dec visit +Movies",
       "start_date": "2026-12-18",
       "end_date": "2026-12-20",
+      "arrival_period": "night",
+      "departure_period": "day",
+      "status": "planning"
+    },
+    {
+      "id": "4b70370b-e313-4f8c-9b70-80d132de437e",
+      "name": "MLK weekend",
+      "start_date": "2027-01-15",
+      "end_date": "2027-01-18",
+      "arrival_period": "night",
+      "departure_period": "night",
+      "status": "planning"
+    },
+    {
+      "id": "8c0560a6-8c95-46f3-8fa9-3f094235262a",
+      "name": "🫶🫶",
+      "start_date": "2027-02-12",
+      "end_date": "2027-02-15",
+      "arrival_period": "night",
+      "departure_period": "night",
+      "status": "planning"
+    },
+    {
+      "id": "407ac864-a90f-4d9a-bac5-064958065eba",
+      "name": "Memorial day",
+      "start_date": "2027-05-28",
+      "end_date": "2027-05-31",
       "arrival_period": "night",
       "departure_period": "day",
       "status": "planning"
