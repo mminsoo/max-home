@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-08T12:42:08.256Z",
-  "lastCheckedAt": "2026-11-26T16:20:00.465Z",
+  "lastUpdated": "2026-11-27T01:27:33.241Z",
+  "lastCheckedAt": "2026-11-27T01:27:33.241Z",
   "visits": [
     {
       "id": "01b8e80a-4634-4cce-b1a9-29bfc632afc9",
@@ -15,10 +15,10 @@
       "id": "97964b23-2f87-422f-8960-8a3196f98152",
       "name": "Dec visit +Movies",
       "start_date": "2026-12-18",
-      "end_date": "2026-12-20",
+      "end_date": "2026-12-21",
       "arrival_period": "night",
       "departure_period": "day",
-      "status": "planning"
+      "status": "confirmed"
     },
     {
       "id": "47525810-020a-4e8f-b4e1-c4b200a428ed",
